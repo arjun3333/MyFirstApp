@@ -1,26 +1,27 @@
-# MyFirstApp\
-## To build MyFirstApp using ios.\
-### First App - Hello World\
+# MyFirstApp&nbsp;
+## To build MyFirstApp using ios.&nbsp;
+### First App - Hello World&nbsp;
 
-#### Installing XCode from app store:\
+#### Installing XCode from app store:&nbsp;
 
-*You a install XCode from app store as shown below.\
+*You a install XCode from app store as shown below.&nbsp;
 
 ![1](https://user-images.githubusercontent.com/74371450/106769101-9ce4ca80-6662-11eb-97f8-0e1b31071110.jpg)
 
  ![2](https://user-images.githubusercontent.com/74371450/106769611-27c5c500-6663-11eb-833c-11c7bf80fc11.png)
   
-#### Another way\
+#### Another way&nbsp;
  
  ![3](https://user-images.githubusercontent.com/74371450/106769814-63608f00-6663-11eb-8cd7-417d33e61c37.jpg)
 
 
  
  
-#### Creating MyFirstApp
-* Start Xcode
-*You should get a welcome screen with a choice to create a new project.
-*Or menu: File | New | Project
+#### Creating MyFirstApp&nbsp;
+
+Start Xcode&nbsp;
+You should get a welcome screen with a choice to create a new project.&nbsp;
+Or menu: File | New | Project&nbsp;
  
  
 iOS Application: Single View Application
