@@ -5,7 +5,8 @@ First App - Hello World
 Installing XCode from app store:
 You a install XCode from app store as shown below.
 ![1](https://user-images.githubusercontent.com/74371450/106769101-9ce4ca80-6662-11eb-97f8-0e1b31071110.jpg)
- 
+
+ ![2](https://user-images.githubusercontent.com/74371450/106769611-27c5c500-6663-11eb-833c-11c7bf80fc11.png)
 	Another
  
  
