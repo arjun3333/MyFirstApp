@@ -21,7 +21,8 @@
 Start Xcode<br />
 You should get a welcome screen with a choice to create a new project.<br />
 Or menu: File | New | Project<br />
- 
+ ![6](https://user-images.githubusercontent.com/74371450/106781502-25696800-666f-11eb-9429-f57f67eebf41.png)
+ ![7](https://user-images.githubusercontent.com/74371450/106781507-27332b80-666f-11eb-9541-b8759c03efc4.png)
  
 iOS Application: Single View Application<br />
 Product name: MyFirstApp<br />
@@ -34,36 +35,41 @@ Leave defaults:<br />
 • Language: Swift<br />
 • Device: iPhone<br />
 • Use Core Data: unchecked.<br />
- 
+ ![8](https://user-images.githubusercontent.com/74371450/106781508-27332b80-666f-11eb-961d-1d287c7c234e.png)<br />
 Next<br />
 Leave create local git repository unchecked.<br />
 Create.<br />
 xCode automatically creates the projects and files needed for MyFirstApp.<br />
- 
+ ![9](https://user-images.githubusercontent.com/74371450/106781509-27cbc200-666f-11eb-93c0-e513da949e56.png)<br />
 If needed to publish your project in the app store, one has to sign-in compulsory.<br />
 Below is the splash screen that is displayed first.<br />
  
+ ![10](https://user-images.githubusercontent.com/74371450/106781511-28645880-666f-11eb-94a9-7a659596d7db.png)<br />
+ 
 Below you can see the AppDelegate.swift screen<br />
 
-
+![11](https://user-images.githubusercontent.com/74371450/106781512-28fcef00-666f-11eb-8de2-16c177f13c87.png)<br />
  
 Now let’s make it interactive so our app does something<br />
 Drag and drop the Label on to the screen.<br />
- 
+ ![12](https://user-images.githubusercontent.com/74371450/106781516-29958580-666f-11eb-9fbf-0d1435ed9b29.png)<br />
+![13](https://user-images.githubusercontent.com/74371450/106781517-2a2e1c00-666f-11eb-9ded-dab1a0cecb7f.png)<br />
  
 Click on the button and then hold down the control key.<br />
 Then click and drag from the button over to screen.<br />
- 
+ ![14](https://user-images.githubusercontent.com/74371450/106781521-2a2e1c00-666f-11eb-8e44-b287868125ab.png)<br />
+![15](https://user-images.githubusercontent.com/74371450/106781522-2ac6b280-666f-11eb-8162-ee7be9313432.png)<br />
+![16](https://user-images.githubusercontent.com/74371450/106781525-2b5f4900-666f-11eb-9ef5-81671c24f016.png)<br />
  
  
 Import UIKit imports the UIKit framework which is the foundation of all iOS UI<br />
 class ViewController: UIViewController defines our class called ViewController.<br />
 UIViewController is the superclass (which is in UIKit, which is why we imported that)<br />
- 
+ ![17](https://user-images.githubusercontent.com/74371450/106781528-2bf7df80-666f-11eb-887e-c716d3c14609.png)<br />
 Below is the myfirstapp<br />
- 
- 
+ ![18](https://user-images.githubusercontent.com/74371450/106781531-2bf7df80-666f-11eb-918c-14bf3b580c11.png)<br />
+ ![19](https://user-images.githubusercontent.com/74371450/106781532-2c907600-666f-11eb-9c34-8412cc8ef2ce.png)<br />
 Initially “Hello CEGEP” is displayed.<br />
 Once is click on the button “Change the text”, it will change to “Hello Gaspe” as shown below.<br />
  
-
+![20](https://user-images.githubusercontent.com/74371450/106781535-2c907600-666f-11eb-9669-bdab63155a64.png)<br />
