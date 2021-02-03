@@ -4,7 +4,7 @@
 
 #### Installing XCode from app store:&nbsp;
 
-*You a install XCode from app store as shown below.&nbsp;
+*You a install XCode from app store as shown below.<br />
 
 ![1](https://user-images.githubusercontent.com/74371450/106769101-9ce4ca80-6662-11eb-97f8-0e1b31071110.jpg)
 
@@ -19,52 +19,52 @@
  
 #### Creating MyFirstApp&nbsp;
 
-Start Xcode&nbsp;
-You should get a welcome screen with a choice to create a new project.&nbsp;
-Or menu: File | New | Project&nbsp;
+Start Xcode<br />
+You should get a welcome screen with a choice to create a new project.<br />
+Or menu: File | New | Project<br />
  
  
-iOS Application: Single View Application
-Product name: MyFirstApp
-Organization name: Your organization name (e.g., user)
-• This will be used in a copyright notice that Xcode automatically creates.
-Organization identifier: It preloads this with “reverse DNS” string, such as “com.cegepgim”
-• xCode will combine the product name and organization identifier to create a unique bundle
-identifier for your app.
-Leave defaults:
-• Language: Swift
-• Device: iPhone
-• Use Core Data: unchecked.
+iOS Application: Single View Application<br />
+Product name: MyFirstApp<br />
+Organization name: Your organization name (e.g., user)<br />
+• This will be used in a copyright notice that Xcode automatically creates.<br />
+Organization identifier: It preloads this with “reverse DNS” string, such as “com.cegepgim”<br />
+• xCode will combine the product name and organization identifier to create a unique bundle<br />
+identifier for your app.<br />
+Leave defaults:<br />
+• Language: Swift<br />
+• Device: iPhone<br />
+• Use Core Data: unchecked.<br />
  
-Next
-Leave create local git repository unchecked.
-Create.
-xCode automatically creates the projects and files needed for MyFirstApp.
+Next<br />
+Leave create local git repository unchecked.<br />
+Create.<br />
+xCode automatically creates the projects and files needed for MyFirstApp.<br />
  
-If needed to publish your project in the app store, one has to sign-in compulsory.
-Below is the splash screen that is displayed first.
+If needed to publish your project in the app store, one has to sign-in compulsory.<br />
+Below is the splash screen that is displayed first.<br />
  
-Below you can see the AppDelegate.swift screen
+Below you can see the AppDelegate.swift screen<br />
 
 
  
-Now let’s make it interactive so our app does something
-Drag and drop the Label on to the screen.
+Now let’s make it interactive so our app does something<br />
+Drag and drop the Label on to the screen.<br />
  
  
-Click on the button and then hold down the control key.
-Then click and drag from the button over to screen.
+Click on the button and then hold down the control key.<br />
+Then click and drag from the button over to screen.<br />
  
  
  
-Import UIKit imports the UIKit framework which is the foundation of all iOS UI
-class ViewController: UIViewController defines our class called ViewController.
-UIViewController is the superclass (which is in UIKit, which is why we imported that)
+Import UIKit imports the UIKit framework which is the foundation of all iOS UI<br />
+class ViewController: UIViewController defines our class called ViewController.<br />
+UIViewController is the superclass (which is in UIKit, which is why we imported that)<br />
  
-Below is the myfirstapp
+Below is the myfirstapp<br />
  
  
-Initially “Hello CEGEP” is displayed.
-Once is click on the button “Change the text”, it will change to “Hello Gaspe” as shown below.
+Initially “Hello CEGEP” is displayed.<br />
+Once is click on the button “Change the text”, it will change to “Hello Gaspe” as shown below.<br />
  
 
