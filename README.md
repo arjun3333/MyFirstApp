@@ -1,7 +1,8 @@
 # MyFirstApp
 To build MyFirstApp using ios.
 First App - Hello World
-	Installing XCode from app store:
+
+Installing XCode from app store:
 You a install XCode from app store as shown below.
 ![1](https://user-images.githubusercontent.com/74371450/106769101-9ce4ca80-6662-11eb-97f8-0e1b31071110.jpg)
  
