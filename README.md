@@ -13,8 +13,8 @@
 #### Another way<br />
  
  ![3](https://user-images.githubusercontent.com/74371450/106769814-63608f00-6663-11eb-8cd7-417d33e61c37.jpg)<br />
-  ![4](https://user-images.githubusercontent.com/74371450/1<br />
-
+  ![4](https://user-images.githubusercontent.com/74371450/106781155-c146a400-666e-11eb-873c-0ec3ba671b33.png) <br />
+  ![5](https://user-images.githubusercontent.com/74371450/106781162-c3a8fe00-666e-11eb-8770-04b4f685caa2.png) <br />
  
 #### Creating MyFirstApp&nbsp;
 
