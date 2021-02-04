@@ -33,6 +33,11 @@ The Xcode 10 environment requires that the version of macOS running on the syste
 <br />
 -Or menu: File | New | Project<br />
  ![6](https://user-images.githubusercontent.com/74371450/106781502-25696800-666f-11eb-9429-f57f67eebf41.png)
+ -With the project template panel where we are able to select a template matching the type of project we want to develop.<br />
+ The toolbar located on the top edge of the window allows for the selection of the target platform, providing options to develop an application for iOS, watchOS, tvOS or macOS.<br />
+ -Single View Application – Creates a basic template for an application containing a single view and corresponding view controller.<br />
+ 
+ <img width="265" alt="111" src="https://user-images.githubusercontent.com/74371450/106866614-addd1c80-66f2-11eb-889b-ccc20b6603a0.PNG"><br />
  ![7](https://user-images.githubusercontent.com/74371450/106781507-27332b80-666f-11eb-9541-b8759c03efc4.png)
  
 -iOS Application: Single View Application<br />
@@ -45,9 +50,7 @@ Leave defaults:<br />
 • Language: Swift<br />
 • Device: iPhone<br />
 • Use Core Data: unchecked.<br />
--With the project template panel where we are able to select a template matching the type of project we want to develop.<br />
- The toolbar located on the top edge of the window allows for the selection of the target platform, providing options to develop an application for iOS, watchOS, tvOS or macOS.<br />
- <img width="265" alt="111" src="https://user-images.githubusercontent.com/74371450/106866614-addd1c80-66f2-11eb-889b-ccc20b6603a0.PNG">
+ 
  ![8](https://user-images.githubusercontent.com/74371450/106781508-27332b80-666f-11eb-961d-1d287c7c234e.png)<br />
  -Next<br />
 Leave create local git repository unchecked.<br />
