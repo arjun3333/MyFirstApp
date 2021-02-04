@@ -1,9 +1,13 @@
 # MyFirstApp<br />
 ## To build MyFirstApp using ios.<br />
 
-### Installation
+##  Identifying Your macOS Version<br />
 
-#### Installing XCode from app store:&nbsp;
+The Xcode 10 environment requires that the version of macOS running on the system be version 10.13.4 or later. If you are unsure of the version of macOS on your Mac, you can find this information by clicking on the Apple menu in the top left-hand corner of the screen and selecting the About This Mac option from the menu. In the resulting dialog check the Version line.<br />
+
+### Installation<br />
+
+#### Installing XCode from app store:<br />
 
 ->You can install 'XCode' from app store as shown below.<br />
 
@@ -17,12 +21,16 @@
   ![4](https://user-images.githubusercontent.com/74371450/106781155-c146a400-666e-11eb-873c-0ec3ba671b33.png) <br />
   ![5](https://user-images.githubusercontent.com/74371450/106781162-c3a8fe00-666e-11eb-8770-04b4f685caa2.png) <br />
  
- ### Usage:
+### Usage:<br />
+ Having successfully installed the Xcode, the next step is to launch it.
  
-#### Creating MyFirstApp&nbsp;
+ 
+### Creating MyFirstApp&nbsp;
 
 -Start 'Xcode'<br />
--You should get a welcome screen with a choice to create a new project.<br />
+-The first time Xcode runs you may be prompted to install additional components.<br />
+-Once Xcode has loaded, and assuming this is the first time you have used Xcode on this system, you will be presented with the Welcome screen from which you are ready to proceed:
+<br />
 -Or menu: File | New | Project<br />
  ![6](https://user-images.githubusercontent.com/74371450/106781502-25696800-666f-11eb-9429-f57f67eebf41.png)
  ![7](https://user-images.githubusercontent.com/74371450/106781507-27332b80-666f-11eb-9541-b8759c03efc4.png)
@@ -37,6 +45,9 @@ Leave defaults:<br />
 • Language: Swift<br />
 • Device: iPhone<br />
 • Use Core Data: unchecked.<br />
+-With the project template panel where we are able to select a template matching the type of project we want to develop.<br />
+ The toolbar located on the top edge of the window allows for the selection of the target platform, providing options to develop an application for iOS, watchOS, tvOS or macOS.<br />
+ 
  ![8](https://user-images.githubusercontent.com/74371450/106781508-27332b80-666f-11eb-961d-1d287c7c234e.png)<br />
  -Next<br />
 Leave create local git repository unchecked.<br />
