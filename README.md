@@ -3,13 +3,13 @@
 
 ##  Identifying Your macOS Version<br />
 
-The Xcode 10 environment requires that the version of macOS running on the system be version 10.13.4 or later. If you are unsure of the version of macOS on your Mac, you can find this information by clicking on the Apple menu in the top left-hand corner of the screen and selecting the About This Mac option from the menu. In the resulting dialog check the Version line.<br />
+- The Xcode 10 environment requires that the version of macOS running on the system be version 10.13.4 or later. If you are unsure of the version of macOS on your Mac, you can find this information by clicking on the Apple menu in the top left-hand corner of the screen and selecting the About This Mac option from the menu. In the resulting dialog check the Version line.<br />
 
 ## Installation<br />
 
 #### Installing XCode from app store:<br />
 
-->You can install 'XCode' from app store as shown below.<br />
+- You can install 'XCode' from app store as shown below.<br />
 
 ![1](https://user-images.githubusercontent.com/74371450/106769101-9ce4ca80-6662-11eb-97f8-0e1b31071110.jpg)<br />
 
@@ -22,25 +22,25 @@ The Xcode 10 environment requires that the version of macOS running on the syste
   ![5](https://user-images.githubusercontent.com/74371450/106781162-c3a8fe00-666e-11eb-8770-04b4f685caa2.png) <br />
  
 ## Usage:<br />
- Having successfully installed the Xcode, the next step is to launch it.
+- Having successfully installed the Xcode, the next step is to launch it.
  
  
 ### Creating MyFirstApp&nbsp;
 
--Start 'Xcode'<br />
--The first time Xcode runs you may be prompted to install additional components.<br />
--Once Xcode has loaded, and assuming this is the first time you have used Xcode on this system, you will be presented with the Welcome screen from which you are ready to proceed:
+- Start 'Xcode'<br />
+- The first time Xcode runs you may be prompted to install additional components.<br />
+- Once Xcode has loaded, and assuming this is the first time you have used Xcode on this system, you will be presented with the Welcome screen from which you are ready to proceed:
 <br />
--Or menu: File | New | Project<br />
+- Or menu: File | New | Project<br />
  ![6](https://user-images.githubusercontent.com/74371450/106781502-25696800-666f-11eb-9429-f57f67eebf41.png)<br />
- -With the project template panel where we are able to select a template matching the type of project we want to develop.<br />
- The toolbar located on the top edge of the window allows for the selection of the target platform, providing options to develop an application for iOS, watchOS, tvOS or macOS.<br />
+- With the project template panel where we are able to select a template matching the type of project we want to develop.<br />
+- The toolbar located on the top edge of the window allows for the selection of the target platform, providing options to develop an application for iOS, watchOS, tvOS or macOS.<br />
  #### Single View Application – <br />
- Creates a basic template for an application containing a single view and corresponding view controller.<br />
+- Creates a basic template for an application containing a single view and corresponding view controller.<br />
  
  <img width="265" alt="111" src="https://user-images.githubusercontent.com/74371450/106866614-addd1c80-66f2-11eb-889b-ccc20b6603a0.PNG"><br />
  
- We are going to use the Single View Application template so select this option from the new project window and click Next to configure some more project options<br />
+- We are going to use the Single View Application template so select this option from the new project window and click Next to configure some more project options<br />
  
  ![7](https://user-images.githubusercontent.com/74371450/106781507-27332b80-666f-11eb-9541-b8759c03efc4.png)
  
