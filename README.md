@@ -15,7 +15,7 @@ The Xcode 10 environment requires that the version of macOS running on the syste
 
  ![2](https://user-images.githubusercontent.com/74371450/106769611-27c5c500-6663-11eb-833c-11c7bf80fc11.png)<br />
   
-#### ->Another way<br />
+### ->Another way<br />
  
  ![3](https://user-images.githubusercontent.com/74371450/106769814-63608f00-6663-11eb-8cd7-417d33e61c37.jpg)<br />
   ![4](https://user-images.githubusercontent.com/74371450/106781155-c146a400-666e-11eb-873c-0ec3ba671b33.png) <br />
