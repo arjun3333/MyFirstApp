@@ -44,7 +44,7 @@ The Xcode 10 environment requires that the version of macOS running on the syste
  
  ![7](https://user-images.githubusercontent.com/74371450/106781507-27332b80-666f-11eb-9541-b8759c03efc4.png)
  
--iOS Application: Single View Application<br />
+->iOS Application: Single View Application<br />
  Product name: MyFirstApp<br />
  Organization name: Your organization name (e.g., user)<br />
  Organization identifier: It preloads this with “reverse DNS” string, such as “com.cegepgim”<br />
@@ -56,10 +56,8 @@ Leave defaults:<br />
 • Use Core Data: unchecked.<br />
  
  ![8](https://user-images.githubusercontent.com/74371450/106781508-27332b80-666f-11eb-961d-1d287c7c234e.png)<br />
- -Next<br />
-Leave create local git repository unchecked.<br />
-Create.<br />
-xCode automatically creates the projects and files needed for MyFirstApp.<br />
+ ->Next<br />
+  The xCode automatically creates the projects and files needed for MyFirstApp.<br />
  ![9](https://user-images.githubusercontent.com/74371450/106781509-27cbc200-666f-11eb-93c0-e513da949e56.png)<br />
  
 If needed to publish your project in the app store, one has to sign-in compulsory.<br />
