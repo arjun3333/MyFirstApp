@@ -4,13 +4,13 @@
 
 #### Installing XCode from app store:&nbsp;
 
-*You a install XCode from app store as shown below.<br />
+->You can install XCode from app store as shown below.<br />
 
 ![1](https://user-images.githubusercontent.com/74371450/106769101-9ce4ca80-6662-11eb-97f8-0e1b31071110.jpg)<br />
 
  ![2](https://user-images.githubusercontent.com/74371450/106769611-27c5c500-6663-11eb-833c-11c7bf80fc11.png)<br />
   
-#### Another way<br />
+#### ->Another way<br />
  
  ![3](https://user-images.githubusercontent.com/74371450/106769814-63608f00-6663-11eb-8cd7-417d33e61c37.jpg)<br />
   ![4](https://user-images.githubusercontent.com/74371450/106781155-c146a400-666e-11eb-873c-0ec3ba671b33.png) <br />
@@ -18,17 +18,16 @@
  
 #### Creating MyFirstApp&nbsp;
 
-Start Xcode<br />
-You should get a welcome screen with a choice to create a new project.<br />
-Or menu: File | New | Project<br />
+-Start 'Xcode'<br />
+-You should get a welcome screen with a choice to create a new project.<br />
+-Or menu: File | New | Project<br />
  ![6](https://user-images.githubusercontent.com/74371450/106781502-25696800-666f-11eb-9429-f57f67eebf41.png)
  ![7](https://user-images.githubusercontent.com/74371450/106781507-27332b80-666f-11eb-9541-b8759c03efc4.png)
  
-iOS Application: Single View Application<br />
-Product name: MyFirstApp<br />
-Organization name: Your organization name (e.g., user)<br />
-• This will be used in a copyright notice that Xcode automatically creates.<br />
-Organization identifier: It preloads this with “reverse DNS” string, such as “com.cegepgim”<br />
+-iOS Application: Single View Application<br />
+ Product name: MyFirstApp<br />
+ Organization name: Your organization name (e.g., user)<br />
+ Organization identifier: It preloads this with “reverse DNS” string, such as “com.cegepgim”<br />
 • xCode will combine the product name and organization identifier to create a unique bundle<br />
 identifier for your app.<br />
 Leave defaults:<br />
@@ -36,11 +35,12 @@ Leave defaults:<br />
 • Device: iPhone<br />
 • Use Core Data: unchecked.<br />
  ![8](https://user-images.githubusercontent.com/74371450/106781508-27332b80-666f-11eb-961d-1d287c7c234e.png)<br />
-Next<br />
+ -Next<br />
 Leave create local git repository unchecked.<br />
 Create.<br />
 xCode automatically creates the projects and files needed for MyFirstApp.<br />
  ![9](https://user-images.githubusercontent.com/74371450/106781509-27cbc200-666f-11eb-93c0-e513da949e56.png)<br />
+ 
 If needed to publish your project in the app store, one has to sign-in compulsory.<br />
 Below is the splash screen that is displayed first.<br />
  
